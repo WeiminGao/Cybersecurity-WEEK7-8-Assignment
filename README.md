@@ -30,7 +30,7 @@ Time spent: **6** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 3.9
     - Fixed in version: 4.3.1
-  - GIF Walkthrough: <img src="xss_authenticated_shortcode_tags.gif" width="800">
+  - GIF Walkthrough: <img src="xss_Authenticated_Shortcode_Tags.gif" width="800">
   - Steps to recreate: 
     - add new post
     - type content such as TEST!!![caption width="1" caption='<a href="' ">]</a><a href="http://onMouseOver='alert(1)'">Click me</a>
